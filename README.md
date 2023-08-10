@@ -16,9 +16,9 @@ Discover an expansive collection of books and ebooks on My LibraryHub, a user-fr
 
 ## Website
 
-![Screenshot 2023-08-09 at 11 30 48 PM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/e1aa8752-6e80-462b-a908-3678a47beff9)
-![Screenshot 2023-08-09 at 11 30 58 PM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/6812a26d-78c8-4fea-a2b2-c369ec84ae02)
-![Screenshot 2023-08-09 at 11 31 38 PM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/e06a1c61-d939-4860-ba98-02523587ea58)
-![Screenshot 2023-08-09 at 11 31 46 PM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/d5795a40-f4c8-477f-b51a-81b6916855bf)
+![Screenshot 2023-08-10 at 12 31 29 AM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/22b2ffed-d4ef-4e92-9896-9ba9579e240a)
+![Screenshot 2023-08-10 at 12 31 48 AM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/714bf084-b295-4e95-871d-2c9f24363c52)
+![Screenshot 2023-08-10 at 12 31 55 AM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/7456dde4-ae25-4b59-ae03-e6ae86edf163)
+![Screenshot 2023-08-10 at 12 32 00 AM](https://github.com/ManalisJadhav/LibraryHub/assets/108777498/ad082242-e65a-47de-8863-37ef8e524742)
 
 
